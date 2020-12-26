@@ -15,14 +15,17 @@ background-size:  50%;
 #gifts{
 height:25vh;
 background-color: red;
+font-size: 30px;
 }
 #food{
 height:25vh;
 background-color: deepskyblue;
+font-size: 30px;
 }
 #joy  {
     height:25vh;
     background-color: fuchsia;
+    font-size: 30px;
 }
 h1{
     text-align: center;
@@ -32,7 +35,7 @@ h1{
 }
 h2{
     text-align: center;
-    font-size: 30px;
+    font-size: 50px;
     color: darkslateblue;
     background-color: plum;
 }
