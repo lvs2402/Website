@@ -1,7 +1,49 @@
-h1{
-	font-family: notable;
+.nav {
+    text-align: center;
 }
 
+a{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+body{
+background-image: url("Chrismastree.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size:  50%;
+}
+#gifts{
+height:25vh;
+background-color: red;
+}
+#food{
+height:25vh;
+background-color: deepskyblue;
+}
+#joy  {
+    height:25vh;
+    background-color: fuchsia;
+}
+h1{
+    text-align: center;
+    font-size: 150px;
+    color: darkorchid;
+    background-color: turquoise;
+}
 h2{
-	font-family: Krona One;
+    text-align: center;
+    font-size: 30px;
+    color: darkslateblue;
+    background-color: plum;
+}
+
+img{
+    height: 50%;
+    width: 50%;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    color: powderblue;
+    background-color: salmon;
 }
