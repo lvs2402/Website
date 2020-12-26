@@ -11,22 +11,22 @@ background-image: url("Chrismastree.jpg");
 background-repeat: no-repeat;
 background-position: center;
 background-size:  50%;
-font-size: 30px;
+font-size: 20px;
 }
 #gifts{
 height:25vh;
 background-color: red;
-font-size: 30px;
+font-size: 20px;
 }
 #food{
 height:25vh;
 background-color: deepskyblue;
-font-size: 30px;
+font-size: 20px;
 }
 #joy  {
     height:25vh;
     background-color: fuchsia;
-    font-size: 30px;
+    font-size: 20px;
 }
 h1{
     text-align: center;
