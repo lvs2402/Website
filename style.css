@@ -11,6 +11,7 @@ background-image: url("Chrismastree.jpg");
 background-repeat: no-repeat;
 background-position: center;
 background-size:  50%;
+font-size: 30px;
 }
 #gifts{
 height:25vh;
